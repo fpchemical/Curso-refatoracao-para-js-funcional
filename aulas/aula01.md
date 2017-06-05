@@ -114,7 +114,7 @@ Eu acredito, IMHO, que para você ser um bom programador precisa ter
 
 <br><br>
 
-> **Duvido você encontrar algum programador FODA que não tenha esses 2.**
+> **Duvido você encontrar algum programador FODA que não tenha esses dois.**
 
 <br><br>
 

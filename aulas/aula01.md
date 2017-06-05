@@ -405,7 +405,7 @@ significa que esse todo é divisível.
 
 Se usarmos o [conceito da divisibilidade](http://www.dicionarioinformal.com.br/divisibilidade/), ou seja, usar a operação da divisão,<br> 
 podemos **inferir** que o próximo passo, subindo um nível de complexidade,<br> 
-que podemos analisar é...???
+**será...???**
 
 <br>
 
@@ -632,7 +632,7 @@ if ( isEvenAndNot2( num ) || hasIntegerSquareRoot( num ) )
 <br>
 <br>
 
-### λTécnica.(semantica)
+### λTécnica.(semântica)
 
 Você deve ter percebido que não usei o **`is`** na função `hasIntegerSquareRoot`<br>
 como é usado na `isEvenAndNot2` e na função nativa [isInteger](http://mdn.io/isInteger),<br> 

@@ -294,7 +294,7 @@ Para clarear sua mente você pode imaginar todos esses números como um [CONJUNT
 
 <br>
 
-Tááááááá não começarei com a Matemática (sua linda) agora, então pense 
+Tááááááá não começarei agora com a Matemática (sua linda), então pense 
 <br>que é um Array de 10.000 números, do 10.002 até o 2.
 
 <br>

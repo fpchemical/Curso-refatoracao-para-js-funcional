@@ -1,7 +1,7 @@
 # λAula01.(Como solucionar um problema)
 
 Provavelmente esse curso seja bem diferente do que você está acostumado, <br> 
-pois eu irei ensinar a você pensar de uma forma diferente para solucionar seus problemas.
+pois eu irei ensinar à você pensar de uma forma diferente para solucionar seus problemas.
 
 <br> 
 

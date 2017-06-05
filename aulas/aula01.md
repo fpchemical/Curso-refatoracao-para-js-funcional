@@ -93,7 +93,7 @@ Logo mais você irá entender o porquê.
 
 <br>
 
-> \- **Lá vem o Suissa com esse papo de Matemática, pqp!**
+> \- **Lá vem o Suissa com esse papo de Matemática, PQP!**
 
 <br>
 

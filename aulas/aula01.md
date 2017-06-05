@@ -213,7 +213,7 @@ Para um número ser par ele precisa ser o que?
 
 <br><br>
 
-Entao qualquer número par não pode...
+Então qualquer número par não pode...
 
 
 <br>
@@ -908,7 +908,7 @@ const isPrime = ( num ) =>
 ### λTécnica.(arrow function)
 
 Como você percebeu troquei todas `function` por *[arrow functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions)* que por hora<br> 
-ainda não entrarei em maiores detalhes pois você só verá ela daqui para frente.
+não entrarei em maiores detalhes pois você só verá ela daqui para frente.
 
 No código acima transformamos ela em uma função que eu gosto de <br>
 chamar de: *one line function*.
@@ -938,7 +938,7 @@ Pois nós só conseguimos retirar o `return` de `isPrime` porque ela<br>
 <br>
 
 Só conseguimos retornar diretamente na *arrow function* pois esse *if* possui<br> 
-o `return` implícito, como visto abaixo, não existe nenhum `return`!
+o `return` implícito, como veremos abaixo, não existe nenhum `return`!
 
 ```js
 
@@ -964,7 +964,7 @@ const isPrime = ( num ) =>
 
 ```
 
-Porém, IMHO, não fica tao claro o que ela faz em comparaçao a outra que tem o<br>
+Porém, IMHO, não fica tao claro o que ela faz em comparação a outra que tem o<br>
 retorno de `false` e `true` denotando que ela possui uma "bateria de testes"<br>
 a serem feitos para garantir o valor final e somente depois de passar por<br> 
 todos os testes que ele ira retornar `true`, com isso confirmando que é<br>
@@ -973,8 +973,8 @@ o valor que desejamos.
 Você esta livre para utilizar qualquer uma delas, mas se utilizar essa última você<br>
 tera que explicar o porquê ela fez mais sentido para o seu contexto.
 
-> Nesse curso você tera total liberdade de *codar* diferente do definido, só tera<br>
-> que explicar o porquê e essa explicaçao **DEVE** ser melhor que a minha.
+> Nesse curso você tera total liberdade de *codar* diferente do definido, só terá<br>
+> que explicar o porquê e sua explicação **DEVE** ser melhor que a minha.
 
 <br> 
 

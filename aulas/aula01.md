@@ -659,10 +659,10 @@ Eu acredito que para **Programação Funcional** é mais importante ainda pois e
 
 <br><br>
 
-Logo para que você descreva algo necessariamente precisa da semântica,<br> 
-pois é ela que dará  sentido aos nomes que você escolhe para suas constantes e funções.
+Logo para que você descreva algo necessariamente precisará da semântica,<br> 
+pois é ela que dará sentido aos nomes que você escolhe para suas constantes e funções.
 
-Como estamos aprendendo baseando-se nos conceitos básicos precisamos entender<br> 
+Como estamos aprendendo baseando-se nos conceitos básicos, precisamos entender<br> 
 essa diferença entre esses dois nomes utilizando, obviamente, seus conceitos.
 
 <br><br>
@@ -691,7 +691,7 @@ o que É esse *algo*.
 
 <br><br>
 
-> Será que ficou clara essa parte sobre a semântica dos nomes das funções?
+> Será que ficou claro essa parte sobre a semântica dos nomes das funções?
 
 <br>
 
@@ -701,7 +701,7 @@ o que É esse *algo*.
 
 <br><br><br>
 
-### λRefatoração.λContinuaçao.(ainda tem aula pacas) 
+### λRefatoração.λContinuação.(ainda tem aula pacas) 
 
 <br>
 <br>
@@ -812,7 +812,7 @@ for ( i; i >= 2; i-- ) {
 
 Nosso problema aí é que o `i` existe apenas fora do contexto do `for`, porém<br> 
 seu valor é modificado internamente no `for`, ou seja, modifica algo fora do<br>  
-seu escopo, porém para corrigir isso é bem simples, basta colocarmos o `i` dentro do `for`.
+seu escopo, no entanto para corrigir isso é bem simples, basta colocarmos o `i` dentro do `for`.
 
 ![](https://media3.giphy.com/media/tMPSeKEplOfK0/giphy.gif)
 

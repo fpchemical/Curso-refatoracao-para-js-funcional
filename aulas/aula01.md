@@ -251,7 +251,7 @@ Se formos testar dois números para isso:
 
 > **Para o 10.003 iremos fazer 10.000 operações!!!** 
 
-Lembrando que na verdade cada operação são 2:
+Lembrando que na verdade cada operação são duas:
 
 - a divisão/mod
 - a comparação

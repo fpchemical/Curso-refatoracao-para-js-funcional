@@ -244,7 +244,7 @@ Pense comigo:
 Levando isso em consideração já temos nossa primeira regra de validação
 <br> e não apenas de validação, me acompanhe.
 
-Se formormos testar dois números para isso:
+Se formos testar dois números para isso:
 
 - 10.002
 - 10.003

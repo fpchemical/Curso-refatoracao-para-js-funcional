@@ -103,7 +103,7 @@ Logo mais você irá entender o porquê.
 <br>
 
 Eu acredito, IMHO, que para você ser um bom programador precisa ter
-<br> no mínimo 2 coisas essênciais: 
+<br> no mínimo duas coisas essênciais: 
 
 
 <br>
